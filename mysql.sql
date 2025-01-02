@@ -1,5 +1,5 @@
 -- comment/ statement
--- olaitan
+-- olaitan is a man, i pray this year turn out to be good year for you
 -- introduction to sql
 /*
 this
